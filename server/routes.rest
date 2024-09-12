@@ -1,0 +1,25 @@
+###
+
+GET http://127.0.0.1:8000/api/a/joseph_vijay
+
+###
+
+GET http://127.0.0.1:5000/api/m/leo_2023_2
+
+###
+
+GET http://127.0.0.1:5000/api/search/leo
+
+###
+
+GET http://127.0.0.1:5000/api/ott/leo_2023_2
+
+###
+
+GET http://127.0.0.1:5000/api/photos/leo_2023_2
+
+###
+
+POST http://127.0.0.1:8000/api/reviews/leo_2023_2
+
+{"review":"hello","jwt":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6Ijk3MWFlMGQ3LTkyOWYtNDZmMS04ZjdmLTBkZTcyOTBmOGUxYiIsImlhdCI6MTcxMzY4NjM3NiwiZXhwIjoxNzEzNjg5OTc2fQ.g47duWNwMsn-aZaU4c70b8Uxt9ut1W5jklfOHf46JpU"}
